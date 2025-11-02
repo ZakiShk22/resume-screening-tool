@@ -1,1 +1,12 @@
-# resume-screening-tool
+joblib
+pandas
+matplotlib
+seaborn
+nltk
+numpy
+wordcloud
+scikit-learn
+django
+PyPDF2
+textract
+docx2txt
